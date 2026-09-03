@@ -49,16 +49,6 @@ Build a modern SQL Server data warehouse that brings sales data together in one 
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Goal
-Write SQL-driven analytics that surface insights around:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-The goal is to hand stakeholders the metrics they need to make smarter, faster decisions.
-
 See [docs/requirements.md](docs/requirements.md) for the full breakdown.
 
 ## 📂 How the Repo Is Organized
