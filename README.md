@@ -87,8 +87,10 @@ I'd love to stay connected;  find me on these platforms:
 
 ## 🛡️ License
 
-Licensed under the [MIT License](LICENSE) — feel free to use, adapt, and share this project as long as you give proper credit.
+Licensed under the [MIT License](LICENSE) - feel free to use, adapt, and share this project as long as you give proper credit.
 
 ## 🌟 About Me
 
-Hi there! I'm **Sagar Patel**. I am a Patent Associate with over 1.5 years of experience and skilled in Python (Pandas, NumPy), SQL, Power BI, and Tableau for data analysis and visualization. I enjoy discovering new concepts and facing challenges.
+Hello! I'm **Sagar Patel**, a Patent Associate with 1.5+ years of experience in patent drafting, prosecution, and IP analysis. Alongside my legal work, I specialize in data analysis and visualization using Python (Pandas, NumPy), SQL, Power BI, and Tableau bringing a data-driven lens to problem-solving.
+
+I'm passionate about exploring new concepts, tackling complex challenges, and finding the intersection between structured legal thinking and analytical insight. Always open to connecting with fellow professionals in IP, tech, and data!
