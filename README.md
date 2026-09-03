@@ -26,11 +26,10 @@ This project covers:
 
 ## 🛠️ Tools & Resources
 
-Tools listed below are used in this project:
+The tools listed below used in this project:
 - **[Datasets](datasets/):** the raw CSV files used throughout the project.
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** a lightweight option for hosting your own SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** the GUI for managing and querying your databases.
-- **[Git Repository](https://github.com/):** set up a GitHub account and repo to version and collaborate on your code.
 - **[DrawIO](https://www.drawio.com/):** for sketching out architecture diagrams, data models, and flowcharts.
 ---
 
